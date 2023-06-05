@@ -12,7 +12,7 @@ function findLargest(a, b, c) {
 
   return largestNumber;
 }
-}
+
 
 const num1 = parseInt(prompt("Enter First Number."));
 const num2 = parseInt(prompt("Enter Second Number."));
